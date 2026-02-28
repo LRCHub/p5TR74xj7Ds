@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "劣等上等",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-02-28T12:44:40.782018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "劣等上等",
+      "artist": "Giga feat. 鏡音リン・レン",
+      "has_synced": true,
+      "path": "select/01_劣等上等_Giga_feat._鏡音リン・レン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "劣等上等 feat. 鏡音リン・レン",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/02_劣等上等_feat._鏡音リン・レン_Giga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "劣等上等",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&鏡音リン&鏡音レン",
+      "has_synced": true,
+      "path": "select/03_劣等上等_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&鏡音リン&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "劣等上等 (Masayoshi Iimori Remix)",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/04_劣等上等_(Masayoshi_Iimori_Remix)_Giga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "劣等上等 - Masayoshi Iimori Remix",
+      "artist": "Giga/Masayoshi Iimori",
+      "has_synced": true,
+      "path": "select/05_劣等上等_-_Masayoshi_Iimori_Remix_Giga_Masayoshi_Iimori.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "劣等上等 feat. 鏡音リン・レン",
+      "artist": "Giga/鏡音リン・レン",
+      "has_synced": true,
+      "path": "select/06_劣等上等_feat._鏡音リン・レン_Giga_鏡音リン・レン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "劣等上等",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/07_劣等上等_Reol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "リモコン~ 劣等上等 - Live",
+      "artist": "Tokyo Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/08_リモコン~_劣等上等_-_Live_Tokyo_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "リモコン〜 劣等上等",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": false,
+      "path": "select/09_リモコン〜_劣等上等_東京フィルハーモニー交響楽団.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "劣等上等",
+      "artist": "Giga; 鏡音リン; 鏡音レン",
+      "has_synced": true,
+      "path": "select/10_劣等上等_Giga;_鏡音リン;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "リモコン～劣等上等",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": false,
+      "path": "select/11_リモコン~劣等上等_東京フィルハーモニー交響楽団.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Giga - '劣等上等' ft.鏡音リン・レン】",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/12_Giga_-_'劣等上等'_ft.鏡音リン・レン】_Giga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "劣等上等",
+      "artist": "Giga feat. 鏡音リン・レン",
+      "has_synced": true,
+      "path": "select/13_劣等上等_Giga_feat._鏡音リン・レン.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "劣等上等 (feat. 小豆沢こはね&白石杏&鏡音リン&鏡音レン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/14_劣等上等_(feat._小豆沢こはね&白石杏&鏡音リン&鏡音レン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "劣等上等",
+      "artist": "Giga; 鏡音リン; レン",
+      "has_synced": true,
+      "path": "select/15_劣等上等_Giga;_鏡音リン;_レン.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "劣等上等",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/16_劣等上等_Giga.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "劣等上等",
+      "artist": "GigaP feat. Kagamine, Rin, Kagamine, Len",
+      "has_synced": true,
+      "path": "select/17_劣等上等_GigaP_feat._Kagamine,_Rin,_Kagamine,_Len.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "BRING IT ON (劣等上等)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/18_BRING_IT_ON_(劣等上等)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "リモコン～劣等上等 (Live)",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": false,
+      "path": "select/19_リモコン~劣等上等_(Live)_東京フィルハーモニー交響楽団.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "劣等上等",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_劣等上等_HIMEHINA.txt"
+    }
+  ]
+}
